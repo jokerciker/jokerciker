@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jokerciker
-- 👀 I’m interested in ... Python/SQL/Selenium
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Python
+- 👋 Hi, I’m Nickolay Reydish
+- 👀 I’m interested in ... PHP/HTML/CSS/JS  Python/SQL/Selenium
+- 🌱 I’m currently learning ...PHP
+- 💞️ I’m looking to collaborate on ...PHP
 - 📫 How to reach me ...
 
 <!---
