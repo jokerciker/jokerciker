@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Nickolay Reydish
 - 
-- WELCOME TO MY SITE ==> <a href="http://e9785694.beget.tech/index1.php">http://e9785694.beget.tech/index1.php
+- WELCOME TO MY SITE ==> http://e9785694.beget.tech/index1.php
 - 👀 I’m interested in ... PHP/HTML/CSS/JS  Python/SQL/Selenium
 - 🌱 I’m currently learning ...PHP
 - 💞️ I’m looking to collaborate on ...PHP
 - 📫 How to reach me ...
 
-- WELCOME TO MY SITE ==> http://e9785694.beget.tech/index1.php
+
 
 <!---
 jokerciker/jokerciker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
